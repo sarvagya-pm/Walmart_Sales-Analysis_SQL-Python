@@ -70,3 +70,10 @@ The data for this project is sourced from the Kaggle dataset:
 ## 8.) Identify Branches with Highest Revenue Decline Year-Over-Year
 ● Question: Which branches experienced the largest decrease in revenue compared to the previous year?
 ● Purpose: Detecting branches with declining revenue is crucial for understanding possible local issues and creating strategies to boost sales or mitigate losses.
+
+## Results and Insights
+This section will include your analysis findings:
+
+Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
+Profitability: Insights into the most profitable product categories and locations.
+Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
